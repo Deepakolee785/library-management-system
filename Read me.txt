@@ -1,0 +1,6 @@
+Instructions:
+1.Run main.py module
+2.kindly follow instruction to get desired infromation
+3.go to 'borrower/invoice' fir to view bill generated at borrow
+4.go to 'returns' dir to view return bill
+5. don't delete any file or directory

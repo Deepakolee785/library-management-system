@@ -1,0 +1,5 @@
+b1,Harry Potter,JK Rowling,30,$2
+b2,Start With Why,Simon Sinek,10,$1.5
+b3,Prog. Python,John Smith,29,$1.5
+b4,The Hobbit,Jrr. Tolkien,49,$1
+b5,Red Dragon,Thomas Harris,34,$3
